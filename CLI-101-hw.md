@@ -1,13 +1,14 @@
 # **Luqmaan Bradford**
 
-1. 1 - Tame Impala
-1. 2 - Joywave
-1. 3 - Run the Jewels
-1. 4 - Ice Cube
-1. 5 - Muse
+1. Tame Impala
+1. Joywave
+1. Run the Jewels
+1. Ice Cube
+1. Muse
 
 Location: Houston
-Pets: none
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Pets: None at this time, but I had cats at one point.
+
+![github-logo](/desktop/CLI-101/github-logo.jpg)
+Format: ![Git Hub Logo]
