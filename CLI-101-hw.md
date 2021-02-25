@@ -10,4 +10,4 @@ Location: Houston
 
 Pets: None at this time, but I had cats at one point.
 
-![Github Logo](Users/luqmaanb/Desktop/hw-folder/CLI-101/github-logo.jpg)
+![Github Logo](/Users/luqmaanb/Desktop/hw-folder/CLI-101/github-logo.jpg)
